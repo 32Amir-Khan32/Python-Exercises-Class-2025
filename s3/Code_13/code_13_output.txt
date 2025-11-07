@@ -1,0 +1,6 @@
+=== خروجی استاندارد ===
+{'name': 'AmirKhan', 'age': 25, 'major': 'Computer Science'}
+AmirKhan
+25
+
+=== کد خروج: 0 ===

@@ -1,0 +1,11 @@
+=== خطاها ===
+Traceback (most recent call last):
+  File "C:\Users\asus\Desktop\PyhtonsuNI1-main\s3\code_36.py", line 3, in <module>
+    print(f"\u0644\u06cc\u0633\u062a: {fruits}")
+    ~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\asus\AppData\Local\Programs\Python\Python313\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode characters in position 0-3: character maps to <undefined>
+
+=== کد خروج: 1 ===

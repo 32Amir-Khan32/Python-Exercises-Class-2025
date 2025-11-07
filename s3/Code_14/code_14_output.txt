@@ -1,0 +1,5 @@
+=== خروجی استاندارد ===
+frozenset({'banana', 'cherry', 'apple'})
+<class 'frozenset'>
+
+=== کد خروج: 0 ===

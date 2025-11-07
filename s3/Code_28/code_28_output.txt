@@ -1,0 +1,6 @@
+=== خروجی استاندارد ===
+('cherry', 'orange', 'kiwi')
+('apple', 'banana', 'cherry', 'orange')
+('orange', 'kiwi', 'melon')
+
+=== کد خروج: 0 ===

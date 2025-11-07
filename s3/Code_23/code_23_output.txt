@@ -1,0 +1,6 @@
+=== خروجی استاندارد ===
+apple
+banana
+['cherry', 'strawberry', 'raspberry']
+
+=== کد خروج: 0 ===
