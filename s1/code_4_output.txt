@@ -1,7 +1,0 @@
-=== خطاها ===
-  File "C:\Users\asus\Desktop\PyhtonsuNI1-main\s1\code_4.py", line 1
-    2myvar = "AmirKhan"
-    ^
-SyntaxError: invalid decimal literal
-
-=== کد خروج: 1 ===
