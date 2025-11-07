@@ -1,0 +1,9 @@
+=== خروجی استاندارد ===
+It's alright.
+This will insert one \ backslash
+Hello
+World!
+Hello	AmirKhan!
+Hello World!
+
+=== کد خروج: 0 ===

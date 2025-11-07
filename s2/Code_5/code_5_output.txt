@@ -1,0 +1,7 @@
+=== خروجی استاندارد ===
+x is z: True
+x is y: False
+x == y: True
+x is not y: True
+
+=== کد خروج: 0 ===

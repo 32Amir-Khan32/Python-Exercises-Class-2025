@@ -1,0 +1,6 @@
+=== خروجی استاندارد ===
+'banana' in fruits: True
+'orange' in fruits: False
+'pineapple' not in fruits: True
+
+=== کد خروج: 0 ===

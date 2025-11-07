@@ -1,0 +1,6 @@
+=== خروجی استاندارد ===
+Hello AmirKhan,
+Welcome to Python programming,
+This is a multi-line string.
+
+=== کد خروج: 0 ===

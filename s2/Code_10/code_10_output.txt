@@ -1,0 +1,8 @@
+=== خروجی استاندارد ===
+True
+False
+False
+b is not greater than a
+True
+
+=== کد خروج: 0 ===

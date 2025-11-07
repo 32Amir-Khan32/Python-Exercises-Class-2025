@@ -1,0 +1,7 @@
+=== خروجی استاندارد ===
+Hello AmirKhan
+Hello AmirKhan
+It's alright
+He is called "AmirKhan"
+
+=== کد خروج: 0 ===

@@ -1,0 +1,8 @@
+=== خروجی استاندارد ===
+ HELLO, AMIRKHAN! 
+ hello, amirkhan! 
+Hello, AmirKhan!
+ Jello, AmirKhan! 
+[' Hello', ' AmirKhan! ']
+
+=== کد خروج: 0 ===

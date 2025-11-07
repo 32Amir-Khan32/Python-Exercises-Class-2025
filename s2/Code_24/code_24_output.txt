@@ -1,0 +1,6 @@
+=== خروجی استاندارد ===
+<class 'int'>
+<class 'float'>
+<class 'complex'>
+
+=== کد خروج: 0 ===

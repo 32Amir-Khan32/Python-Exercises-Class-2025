@@ -1,0 +1,9 @@
+=== خروجی استاندارد ===
+Hello AmirKhan
+<class 'str'>
+25
+<class 'int'>
+True
+<class 'bool'>
+
+=== کد خروج: 0 ===

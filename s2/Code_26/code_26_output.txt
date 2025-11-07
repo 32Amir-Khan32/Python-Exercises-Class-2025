@@ -1,0 +1,9 @@
+=== خروجی استاندارد ===
+Hello World
+<class 'str'>
+20
+<class 'int'>
+['apple', 'banana', 'cherry']
+<class 'list'>
+
+=== کد خروج: 0 ===

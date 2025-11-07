@@ -1,0 +1,6 @@
+=== خروجی استاندارد ===
+My name is AmirKhan, I am 25 years old
+The price is 59.99 dollars
+Next year I will be 26 years old
+
+=== کد خروج: 0 ===
