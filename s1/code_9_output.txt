@@ -1,0 +1,5 @@
+=== خروجی استاندارد ===
+Python is fantastic
+Python is awesome
+
+=== کد خروج: 0 ===
