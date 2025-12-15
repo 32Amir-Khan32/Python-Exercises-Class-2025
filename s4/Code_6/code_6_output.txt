@@ -1,0 +1,5 @@
+=== خروجی استاندارد ===
+Role: editor
+Access Level: Edit Access
+
+=== کد خروج: 0 ===

@@ -1,0 +1,8 @@
+=== خروجی استاندارد ===
+Searching for 'cherry':
+Checking: apple
+Checking: banana
+Checking: cherry
+Found cherry! Stopping search.
+
+=== کد خروج: 0 ===

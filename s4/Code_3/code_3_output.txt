@@ -1,0 +1,7 @@
+=== خروجی استاندارد ===
+Current value: 1
+Current value: 2
+Current value: 3
+Breaking the loop at 3
+
+=== کد خروج: 0 ===

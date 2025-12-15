@@ -1,0 +1,7 @@
+=== خروجی استاندارد ===
+Available fruits:
+- apple
+- banana
+- cherry
+
+=== کد خروج: 0 ===

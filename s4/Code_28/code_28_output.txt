@@ -1,0 +1,6 @@
+Enter password (3 attempts left): 1
+Incorrect password. Try again.
+Enter password (2 attempts left): 3
+Incorrect password. Try again.
+Enter password (1 attempts left): AmirKhan@2024
+Access Granted!

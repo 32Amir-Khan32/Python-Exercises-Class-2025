@@ -1,0 +1,8 @@
+=== خروجی استاندارد ===
+Student List:
+1. AmirKhan
+2. Sara
+3. Ali
+4. Fatima
+
+=== کد خروج: 0 ===

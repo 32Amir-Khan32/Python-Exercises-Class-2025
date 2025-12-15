@@ -1,0 +1,8 @@
+=== خروجی استاندارد ===
+Student Grades:
+AmirKhan: 85
+Sara: 92
+Ali: 78
+Fatima: 88
+
+=== کد خروج: 0 ===

@@ -1,0 +1,7 @@
+=== خروجی استاندارد ===
+i = 1
+i = 2
+i = 3
+Loop completed successfully
+
+=== کد خروج: 0 ===

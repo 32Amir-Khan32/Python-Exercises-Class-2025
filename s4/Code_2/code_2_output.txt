@@ -1,0 +1,9 @@
+=== خروجی استاندارد ===
+Processing: 1
+Processing: 2
+Skipping 3
+Processing: 4
+Processing: 5
+Processing: 6
+
+=== کد خروج: 0 ===

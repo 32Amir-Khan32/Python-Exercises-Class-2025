@@ -1,0 +1,6 @@
+=== خروجی استاندارد ===
+Student: AmirKhan
+Score: 85
+Grade: B
+
+=== کد خروج: 0 ===

@@ -1,0 +1,33 @@
+=== خروجی استاندارد ===
+Student Performance Report
+==================================================
+Student: AmirKhan (Age: 25)
+Grades: [85, 90, 88]
+Average: 87.7
+Grade: B
+Status: PASS
+Comment: Good job!
+--------------------------------------------------
+Student: Sara (Age: 23)
+Grades: [92, 95, 89]
+Average: 92.0
+Grade: A
+Status: PASS
+Comment: Excellent work!
+--------------------------------------------------
+Student: Ali (Age: 22)
+Grades: [78, 82, 75]
+Average: 78.3
+Grade: C
+Status: PASS
+Comment: Needs improvement
+--------------------------------------------------
+Student: Fatima (Age: 24)
+Grades: [88, 85, 90]
+Average: 87.7
+Grade: B
+Status: PASS
+Comment: Good job!
+--------------------------------------------------
+
+=== کد خروج: 0 ===
