@@ -1,0 +1,5 @@
+=== خروجی استاندارد ===
+Original Price: $100
+Final Price after 20% discount: $80.0
+
+=== کد خروج: 0 ===

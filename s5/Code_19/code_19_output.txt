@@ -1,0 +1,5 @@
+=== خروجی استاندارد ===
+Student 1: Amir Khan
+Student 2: Sara Johnson
+
+=== کد خروج: 0 ===

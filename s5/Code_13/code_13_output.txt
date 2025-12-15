@@ -1,0 +1,6 @@
+=== خروجی استاندارد ===
+Before inner: Hello from outer function
+Inner: Modified by inner function
+After inner: Modified by inner function
+
+=== کد خروج: 0 ===

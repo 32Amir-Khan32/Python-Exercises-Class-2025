@@ -1,0 +1,6 @@
+=== خروجی استاندارد ===
+AmirKhan studies at Tech University
+Sara studies at Tech University
+Ali studies at Science University
+
+=== کد خروج: 0 ===

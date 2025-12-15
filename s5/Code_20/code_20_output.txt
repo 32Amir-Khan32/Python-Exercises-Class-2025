@@ -1,0 +1,7 @@
+=== خروجی استاندارد ===
+Hello, AmirKhan!
+Hello, Sara!
+Hello, friend!
+Hello, Ali!
+
+=== کد خروج: 0 ===

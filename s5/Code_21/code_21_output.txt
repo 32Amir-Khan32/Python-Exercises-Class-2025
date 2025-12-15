@@ -1,0 +1,7 @@
+Enter a password to check its strength: AmirKhan@2024
+
+Password Analysis for: AmirKhan@2024
+Strength Score: 5/5
+Strength Level: Strong
+Great! Your password is strong.
+=== کد خروج: 0 ===

@@ -1,0 +1,27 @@
+=== خروجی استاندارد ===
+
+Student: AmirKhan
+Scores: [85, 90, 88, 92]
+Average: 88.8
+Grade: B
+Status: Pass with honors
+
+Student: Sara
+Scores: [95, 98, 96, 94]
+Average: 95.8
+Grade: A
+Status: Pass with honors
+
+Student: Ali
+Scores: [70, 65, 75, 72]
+Average: 70.5
+Grade: C
+Status: Pass
+
+Student: Fatima
+Scores: [55, 60, 58, 62]
+Average: 58.8
+Grade: F
+Status: Fail
+
+=== کد خروج: 0 ===

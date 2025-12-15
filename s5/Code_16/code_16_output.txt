@@ -1,0 +1,12 @@
+=== خروجی استاندارد ===
+Student Details:
+  Name: AmirKhan
+  Age: 25
+  Major: CS
+  University: Tech University
+Student Details:
+  Name: Ali
+  Gpa: 3.7
+  Year: Junior
+
+=== کد خروج: 0 ===

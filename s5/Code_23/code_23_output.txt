@@ -1,0 +1,6 @@
+=== خروجی استاندارد ===
+Sum of 5 and 3 is: 8
+Sum of 10 and 20 is: 30
+Sum of -5 and 8 is: 3
+
+=== کد خروج: 0 ===

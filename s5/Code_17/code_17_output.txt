@@ -1,0 +1,13 @@
+=== خروجی استاندارد ===
+Student Profile:
+  Name: AmirKhan
+  Age: 25
+  Major: Computer Science
+  GPA: 3.8
+Student Profile:
+  Name: Sara
+  Age: 22
+  Major: Mathematics
+  GPA: 3.9
+
+=== کد خروج: 0 ===

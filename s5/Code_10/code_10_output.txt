@@ -1,0 +1,8 @@
+=== خروجی استاندارد ===
+Factorial of 0 is 1
+Factorial of 1 is 1
+Factorial of 5 is 120
+Factorial of 7 is 5040
+Factorial of 10 is 3628800
+
+=== کد خروج: 0 ===

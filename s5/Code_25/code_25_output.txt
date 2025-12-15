@@ -1,0 +1,6 @@
+=== خروجی استاندارد ===
+Welcome to Python Programming
+Welcome to Python Programming
+Welcome to Python Programming
+
+=== کد خروج: 0 ===
