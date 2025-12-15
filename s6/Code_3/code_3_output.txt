@@ -1,0 +1,14 @@
+=== خروجی استاندارد ===
+Successfully deposited $500
+Successfully withdrew $200
+Insufficient funds
+Applied $65.00 interest
+
+Current balance: $1365.00
+
+Transaction History:
+  Deposit: +$500
+  Withdrawal: -$200
+  Interest: +$65.00
+
+=== کد خروج: 0 ===

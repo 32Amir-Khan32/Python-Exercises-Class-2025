@@ -1,0 +1,12 @@
+=== خروجی استاندارد ===
+Rex is eating
+Rex says: Woof woof!
+Rex is fetching the ball
+Rex is feeding milk to young
+
+Whiskers is sleeping
+Whiskers says: Meow!
+Whiskers is climbing a tree
+Whiskers has fur: True
+
+=== کد خروج: 0 ===

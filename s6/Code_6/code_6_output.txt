@@ -1,0 +1,12 @@
+=== خروجی استاندارد ===
+Brand: Toyota, Model: Camry
+Doors: 4
+Beep beep!
+Moving...
+
+Brand: Harley, Model: Davidson
+Type: Motorcycle without sidecar
+Doing a wheelie!
+Moving...
+
+=== کد خروج: 0 ===

@@ -1,0 +1,17 @@
+=== خروجی استاندارد ===
+Student Information:
+------------------------------
+Name: AmirKhan
+Student ID: S12345
+Valid ID: True
+
+Name: Sara
+Student ID: S67890
+Valid ID: True
+
+Total students: 2
+University: Tech University
+Is 'S12345' valid? True
+Is '12345' valid? False
+
+=== کد خروج: 0 ===

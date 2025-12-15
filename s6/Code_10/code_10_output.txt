@@ -1,0 +1,5 @@
+=== خروجی استاندارد ===
+Hello, my name is AmirKhan
+Happy birthday! Now I'm 26 years old
+
+=== کد خروج: 0 ===

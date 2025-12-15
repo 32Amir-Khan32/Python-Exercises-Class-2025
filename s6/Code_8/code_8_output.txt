@@ -1,0 +1,5 @@
+=== خروجی استاندارد ===
+Student: AmirKhan (ID: S12345, Major: Computer Science)
+Student: Sara (ID: S67890, Major: Mathematics)
+
+=== کد خروج: 0 ===

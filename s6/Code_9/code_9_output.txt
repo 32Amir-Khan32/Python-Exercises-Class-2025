@@ -1,0 +1,6 @@
+=== خروجی استاندارد ===
+Addition: 5 + 3 = 8
+Multiplication: 4 * 7 = 28
+Last result: 28
+
+=== کد خروج: 0 ===

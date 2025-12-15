@@ -1,0 +1,11 @@
+=== خروجی استاندارد ===
+Computer: Dell XPS 15
+CPU: 4 cores @ 3.2 GHz
+RAM: 16 GB DDR4
+
+Running Python IDE...
+RAM allocating: 4 GB
+CPU processing: Python IDE
+RAM freeing: 4 GB
+
+=== کد خروج: 0 ===

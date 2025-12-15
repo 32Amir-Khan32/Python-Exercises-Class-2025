@@ -1,0 +1,30 @@
+=== خروجی استاندارد ===
+Added 1x Laptop to cart
+Added 2x Smartphone to cart
+Added 3x Python Book to cart
+
+=== SHOPPING CART ===
+  1x Laptop @ $1200.00 = $1200.00
+  2x Smartphone @ $800.00 = $1600.00
+  3x Python Book @ $50.00 = $150.00
+
+Total: $2950.00
+Applied 10% discount: -$295.00
+Removed Python Book from cart
+
+=== SHOPPING CART ===
+  1x Laptop @ $1200.00 = $1200.00
+  2x Smartphone @ $800.00 = $1600.00
+
+Total: $2505.00
+
+=== CHECKOUT ===
+Items in cart:
+  1x Laptop @ $1200.00 = $1200.00
+  2x Smartphone @ $800.00 = $1600.00
+
+Subtotal: $2800.00
+Total: $2505.00
+Thank you for your purchase!
+
+=== کد خروج: 0 ===

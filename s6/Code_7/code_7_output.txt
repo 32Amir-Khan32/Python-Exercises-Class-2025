@@ -1,0 +1,10 @@
+=== خروجی استاندارد ===
+Deposited: $200
+Current balance: $1200
+Withdrawn: $300
+Current balance: $900
+Deposited: $400
+Current balance: $900
+Transferred $400 to Sara
+
+=== کد خروج: 0 ===

@@ -1,0 +1,22 @@
+=== خروجی استاندارد ===
+University: Tech University
+----------------------------------------
+
+Department: Computer Science
+Courses (3):
+  - CS101: Introduction to Programming
+  - CS201: Data Structures
+  - CS301: Algorithms
+Professors (2):
+  - Dr. Smith (Artificial Intelligence)
+  - Dr. Johnson (Database Systems)
+
+Department: Mathematics
+Courses (2):
+  - MATH101: Calculus I
+  - MATH201: Linear Algebra
+Professors (2):
+  - Dr. Brown (Pure Mathematics)
+  - Dr. Davis (Applied Mathematics)
+
+=== کد خروج: 0 ===
